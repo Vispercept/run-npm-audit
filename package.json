@@ -19,5 +19,16 @@
   },
   "dependencies": {
     "shelljs": "0.8.2"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vispercept/run-npm-audit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Vispercept/run-npm-audit/issues"
+  },
+  "homepage": "https://github.com/Vispercept/run-npm-audit#readme"
 }
