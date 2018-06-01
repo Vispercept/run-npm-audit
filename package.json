@@ -1,0 +1,23 @@
+{
+  "name": "run-npm-audit",
+  "version": "1.0.1",
+  "description": "Use npm audit programmatically by providing package(-lock).json as a string",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon",
+    "test": "mocha './test/**/*.spec.js'",
+    "test:dev": "mocha './test/**/*.spec.js' -w"
+  },
+  "keywords": [],
+  "author": "Thomas König",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "4.1.2",
+    "eslint": "4.19.1",
+    "mocha": "5.2.0",
+    "nodemon": "1.17.5"
+  },
+  "dependencies": {
+    "shelljs": "0.8.2"
+  }
+}
