@@ -1,6 +1,6 @@
 {
   "name": "run-npm-audit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Use npm audit programmatically by providing package(-lock).json as a string",
   "main": "index.js",
   "scripts": {
